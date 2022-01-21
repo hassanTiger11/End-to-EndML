@@ -23,3 +23,11 @@ You got all semster to do so.
 6. Fine-tune your model.
 7. Present your solution.
 8. Launch, monitor, and maintain your system.
+
+
+## Before beginning project
+Download the requirements:
+`
+virtualenv venv
+pip install -r requirements.txt
+`
