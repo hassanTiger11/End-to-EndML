@@ -29,5 +29,7 @@ You got all semster to do so.
 Download the requirements:
 `
 virtualenv venv
+`
+`
 pip install -r requirements.txt
 `
