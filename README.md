@@ -33,3 +33,13 @@ virtualenv venv
 `
 pip install -r requirements.txt
 `
+
+
+### Things learned:
+1) Exploring data behaviour is essential to picking the right model
+    In this example we did this when we tried to find the correlations between
+    the attributes. Note that we have divided the data into training and testing 
+    data before doing this.
+
+    We did this using `pandas.DataFrame.corr`
+    
